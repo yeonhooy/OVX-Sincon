@@ -1,5 +1,3 @@
-Sincon for 
-
 Publications
 -------------
 - <pre><code>@INPROCEEDINGS{9284327,
